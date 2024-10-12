@@ -6,7 +6,7 @@
 ![Ruwanweliseya](https://github.com/hasiya89/my-travel-adventure/blob/main/Anuradhapura_Sri_Lanka.jpg) 
 A magical blend of traditional temples, stunning landscapes, and delicious food.
 
-- **Must-see**: Fushimi Inari Shrine ⛩️
+- **Must-see**: Fushimi Inari Shrine 
 - **Best time to visit**: Spring 🌸 for cherry blossoms
 
 ---
