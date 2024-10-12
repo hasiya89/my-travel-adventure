@@ -3,7 +3,7 @@
 ## Favorite Destinations
 
 ### 1. **Anuradhapura, Sri Lanka**
-![Ruwanweliseya](https://github.com/hasiya89/my-travel-adventure/blob/main/Anuradhapura_Sri_Lanka.jpg) 
+![Ruwanweliseya](./Anuradhapura_Sri_Lanka.jpg) 
 A magical blend of traditional temples, stunning landscapes, and delicious food.
 
 - **Must-see**: Fushimi Inari Shrine 
