@@ -3,9 +3,9 @@
 ## Favorite Destinations
 
 ### 1. **Anuradhapura, Sri Lanka**
-![Ruwanweliseya](./Anuradhapura_Sri_Lanka.jpg) 
+<img src="Anuradhapura_Sri_Lanka.jpg" alt="Ruwanweliseya Stupa in Anuradhapura" style="max-width: 600px; height: auto; float: left; margin-right: 15px;"/>
 --
-"Anuradhapura, Sri Lanka: A timeless journey through ancient ruins, sacred temples, and serene landscapes. Discover the heart of Sri Lanka's cultural heritage amidst towering stupas and centuries-old banyan trees."
+<p>"Anuradhapura, Sri Lanka: A timeless journey through ancient ruins, sacred temples, and serene landscapes. Discover the heart of Sri Lanka's cultural heritage amidst towering stupas and centuries-old banyan trees."</p>
 
 - **Must-see**: Sacred Bodhi Tree (Jaya Sri Maha Bodhi) 🌳 
 - **Best time to visit**:  August 🏛️ for the vibrant Esala Perahera Festival
