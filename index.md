@@ -76,7 +76,13 @@ I am an avid traveler who loves exploring new places, meeting people, and enjoyi
 
 ---
 
+
 ### Contact
 
 - **Tel**: +358 41 7270325 
 - **Email**: [t3hiha00@students.oamk.fi](mailto:t3hiha00@students.oamk.fi)
+
+---
+&copy; 2024 Hasitha Hiththatiyage. All rights reserved.  
+Follow me on [Instagram](https://instagram.com/travelvithhasi/) for more travel adventures!  
+Check out my [GitHub](https://github.com/hasiya89) for other projects.
