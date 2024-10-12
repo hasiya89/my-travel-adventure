@@ -2,8 +2,8 @@
 
 ## Favorite Destinations
 
-### 1. **Kyoto, Japan**
-![Kyoto](https://via.placeholder.com/300x200)  
+### 1. **Anuradhapura, Sri Lanka**
+![Ruwanweliseya]() 
 A magical blend of traditional temples, stunning landscapes, and delicious food.
 
 - **Must-see**: Fushimi Inari Shrine ⛩️
