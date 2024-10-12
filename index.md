@@ -4,8 +4,7 @@
 
 ### 1. **Anuradhapura, Sri Lanka**
 <img src="Anuradhapura_Sri_Lanka.jpg" alt="Ruwanweliseya Stupa in Anuradhapura" style="max-width: 600px; height: auto; float: left; margin-right: 15px;"/>
---
-<p>"Anuradhapura, Sri Lanka: A timeless journey through ancient ruins, sacred temples, and serene landscapes. Discover the heart of Sri Lanka's cultural heritage amidst towering stupas and centuries-old banyan trees."</p>
+- "Anuradhapura, Sri Lanka: A timeless journey through ancient ruins, sacred temples, and serene landscapes. Discover the heart of Sri Lanka's cultural heritage amidst towering stupas and centuries-old banyan trees."-
 
 - **Must-see**: Sacred Bodhi Tree (Jaya Sri Maha Bodhi) 🌳 
 - **Best time to visit**:  August 🏛️ for the vibrant Esala Perahera Festival
@@ -14,8 +13,7 @@
 
 ### 2. **New Delhi, India**
 ![India_Gate](./Delhi_India.jpg)
---
-"Delhi, India: A vibrant fusion of history and modernity, where majestic monuments meet bustling markets and flavorful street food. Explore the rich cultural tapestry in the shadow of ancient forts and contemporary wonders."
+- "Delhi, India: A vibrant fusion of history and modernity, where majestic monuments meet bustling markets and flavorful street food. Explore the rich cultural tapestry in the shadow of ancient forts and contemporary wonders."-
 
 - **Must-see**: Red Fort and Humayun's Tomb 🕌
 - **Best time to visit**:  October to March 🌸 for pleasant weather and festivals
@@ -24,8 +22,8 @@
 
 ### 3. **Munich, Germany**
 ![Schwangau_Germany](Schwangau_Germany.jpg)
---
-"Germany: A land of fairy-tale castles, lush forests, and cosmopolitan cities, where centuries of history and innovation blend seamlessly. Experience world-class art, vibrant festivals, and picturesque landscapes."
+---
+- "Germany: A land of fairy-tale castles, lush forests, and cosmopolitan cities, where centuries of history and innovation blend seamlessly. Experience world-class art, vibrant festivals, and picturesque landscapes." -
 
 - **Must-see**: Neuschwanstein Castle and the Black Forest 🏰🌲
 - **Best time to visit**: May to September ☀️ for warm weather and outdoor festivals
@@ -34,8 +32,7 @@
 
 ### 4. **Lermoos, Austria**
 ![Lermoos_Austria](Lermoos_Austria.jpg) 
---
-"Austria: A picturesque haven of stunning alpine landscapes, charming villages, and rich musical heritage. Explore the majestic mountains, historic cities, and indulge in delicious pastries and coffee culture."
+-"Austria: A picturesque haven of stunning alpine landscapes, charming villages, and rich musical heritage. Explore the majestic mountains, historic cities, and indulge in delicious pastries and coffee culture." -
 
 - **Must-see**:Schönbrunn Palace and Hallstatt 🏰🏞️
 - **Best time to visit**: December for enchanting Christmas markets and winter sports! ❄️✨
@@ -44,8 +41,7 @@
 
 ### 5. **Tallinn, Estonia**
 ![Tallinn_Estonia](Tallinn_Estonia.jpg) 
---
-"Estonia: A captivating blend of medieval charm and modern innovation, where cobblestone streets wind through fairy-tale architecture. Discover a vibrant cultural scene, rich history, and stunning views of the Baltic Sea."
+-"Estonia: A captivating blend of medieval charm and modern innovation, where cobblestone streets wind through fairy-tale architecture. Discover a vibrant cultural scene, rich history, and stunning views of the Baltic Sea." -
 
 - **Must-see**: Tallinn Old Town and Toompea Castle 🏰🌟
 - **Best time to visit**: June to August for lively festivals and pleasant weather! ☀️🌼
@@ -54,8 +50,7 @@
 
 ### 6. **Helsinki, Finland**
 ![Helsinki_Finlan](./IMG_5190.jpg)  
---
-"Finland: A breathtaking realm of pristine nature, vibrant culture, and innovative design, where the Northern Lights dance across the night sky. Experience tranquil lakes, enchanting forests, and the warmth of Finnish sauna traditions."
+- "Finland: A breathtaking realm of pristine nature, vibrant culture, and innovative design, where the Northern Lights dance across the night sky. Experience tranquil lakes, enchanting forests, and the warmth of Finnish sauna traditions." -
 
 - **Must-see**:Helsinki's Suomenlinna Fortress and Lapland's Santa Claus Village 🎅🏰
 - **Best time to visit**: December for magical winter landscapes and festive Christmas markets! ❄️
@@ -77,6 +72,6 @@ I am an avid traveler who loves exploring new places, meeting people, and enjoyi
 ---
 
 ### Contact
-**Tel** : +358 41 7270325
-**E mail** : t3hiha00@students.oamk.fi
+-**Tel** : +358 41 7270325 -
+-**E mail** : t3hiha00@students.oamk.fi -
 
