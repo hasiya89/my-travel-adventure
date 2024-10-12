@@ -1,4 +1,4 @@
-# Welcome to My Travel Adventures 🌍✈️
+# Welcome to My Travel Adventures 🌍✈️❤️
 
 ## Favorite Destinations
 
