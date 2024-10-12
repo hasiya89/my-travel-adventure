@@ -4,7 +4,6 @@
 
 ### 1. **Anuradhapura, Sri Lanka**
 ![Ruwanweliseya](./Anuradhapura_Sri_Lanka.jpg) 
-
 "Anuradhapura, Sri Lanka: A timeless journey through ancient ruins, sacred temples, and serene landscapes. Discover the heart of Sri Lanka's cultural heritage amidst towering stupas and centuries-old banyan trees."
 
 - **Must-see**: Sacred Bodhi Tree (Jaya Sri Maha Bodhi) 🌳 
