@@ -3,7 +3,7 @@
 ## Favorite Destinations
 
 ### 1. **Anuradhapura, Sri Lanka**
-![Ruwanweliseya]() 
+![Ruwanweliseya](https://github.com/hasiya89/my-travel-adventure/blob/main/Anuradhapura_Sri_Lanka.jpg) 
 A magical blend of traditional temples, stunning landscapes, and delicious food.
 
 - **Must-see**: Fushimi Inari Shrine ⛩️
@@ -11,8 +11,8 @@ A magical blend of traditional temples, stunning landscapes, and delicious food.
 
 ---
 
-### 2. **Barcelona, Spain**
-![Barcelona](https://via.placeholder.com/300x200)  
+### 2. **New Delhi, India**
+![India_Gate](https://github.com/hasiya89/my-travel-adventure/blob/main/Delhi_India.jpg)
 Gothic architecture, vibrant streets, and incredible food!
 
 - **Must-see**: Sagrada Família ⛪
@@ -20,8 +20,28 @@ Gothic architecture, vibrant streets, and incredible food!
 
 ---
 
-### 3. **Banff, Canada**
-![Banff](https://via.placeholder.com/300x200)  
+### 3. **Munich, Germany**
+![Schwangau_Germany](https://github.com/hasiya89/my-travel-adventure/blob/main/Schwangau_Germany.jpg)  
+A breathtaking mountain town surrounded by nature's beauty.
+
+- **Must-see**: Lake Louise 🏞️
+- **Best time to visit**: Winter ❄️ for skiing
+
+
+### 4. **Lermoos, Austria**
+![Lermoos_Austria](https://github.com/hasiya89/my-travel-adventure/blob/main/Lermoos_Austria.jpg)  
+A breathtaking mountain town surrounded by nature's beauty.
+
+- **Must-see**: Lake Louise 🏞️
+- **Best time to visit**: Winter ❄️ for skiing
+
+### 5. **Tallinn, Estonia**
+![Tallinn_Estonia](https://github.com/hasiya89/my-travel-adventure/blob/main/Tallinn_Estonia.jpg)  
+A breathtaking mountain town surrounded by nature's beauty.
+
+
+### 6. **Helsinki, Finland**
+![Helsinki_Finlan](https://github.com/hasiya89/my-travel-adventure/blob/main/IMG_5190.jpg)  
 A breathtaking mountain town surrounded by nature's beauty.
 
 - **Must-see**: Lake Louise 🏞️
