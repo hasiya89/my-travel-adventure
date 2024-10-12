@@ -67,3 +67,7 @@
 
 I am an avid traveler who loves exploring new places, meeting people, and enjoying different cultures. You can follow my journeys on [Instagram](https://instagram.com/travelvithhasi/).
 
+### Contact
+Tel : +358 41 7270325
+E mail : t3hiha00@students.oamk.fi
+
