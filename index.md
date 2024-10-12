@@ -12,7 +12,7 @@ A magical blend of traditional temples, stunning landscapes, and delicious food.
 ---
 
 ### 2. **New Delhi, India**
-![India_Gate](https://github.com/hasiya89/my-travel-adventure/blob/main/Delhi_India.jpg)
+![India_Gate](./Delhi_India.jpg)
 Gothic architecture, vibrant streets, and incredible food!
 
 - **Must-see**: Sagrada Família ⛪
